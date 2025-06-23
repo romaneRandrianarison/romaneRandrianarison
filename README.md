@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @romaneRandrianarison
 - 👀 I’m interested in softwar developpement
 - 🌱 I’m currently learning in math § info
-- 💞️ I’m looking to collaborate on other programmers
+- 💞️ I’m looking to collaborate on other and learn more about the tech  
 - 😄 Pronouns: Roma
 
 <!---
